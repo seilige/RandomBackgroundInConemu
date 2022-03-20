@@ -1,0 +1,32 @@
+﻿Выполняется установка сборки 'C:\My_Service\obj\Debug\My_Service.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   assemblypath = C:\My_Service\obj\Debug\My_Service.exe
+   logfile = C:\My_Service\obj\Debug\My_Service.InstallLog
+Устанавливается служба Sevice_for_conemu...
+Создается исходный EventLog Sevice_for_conemu в журнале Application...
+Выполняется откат для сборки 'C:\My_Service\obj\Debug\My_Service.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   assemblypath = C:\My_Service\obj\Debug\My_Service.exe
+   logfile = C:\My_Service\obj\Debug\My_Service.InstallLog
+Восстанавливается исходное состояние журнала событий для источника Sevice_for_conemu.
+При выполнении программы установки System.Diagnostics.EventLogInstaller на этапе отката возникло исключение.
+System.Security.SecurityException: Источник не найден, но не удалось выполнить поиск по нескольким или всем журналам событий.  Недоступные журналы: Security, State.
+На этапе отката процедуры установки возникло исключение. Это исключение будет проигнорировано, и откат будет продолжен. Однако после завершения отката компьютер может не вернуться полностью в исходное состояние.
+Выполняется установка сборки 'C:\My_Service\obj\Debug\My_Service.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   assemblypath = C:\My_Service\obj\Debug\My_Service.exe
+   logfile = C:\My_Service\obj\Debug\My_Service.InstallLog
+Устанавливается служба Sevice_for_conemu...
+Создается исходный EventLog Sevice_for_conemu в журнале Application...
+Выполняется откат для сборки 'C:\My_Service\obj\Debug\My_Service.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   assemblypath = C:\My_Service\obj\Debug\My_Service.exe
+   logfile = C:\My_Service\obj\Debug\My_Service.InstallLog
+Восстанавливается исходное состояние журнала событий для источника Sevice_for_conemu.
+При выполнении программы установки System.Diagnostics.EventLogInstaller на этапе отката возникло исключение.
+System.Security.SecurityException: Источник не найден, но не удалось выполнить поиск по нескольким или всем журналам событий.  Недоступные журналы: Security, State.
+На этапе отката процедуры установки возникло исключение. Это исключение будет проигнорировано, и откат будет продолжен. Однако после завершения отката компьютер может не вернуться полностью в исходное состояние.

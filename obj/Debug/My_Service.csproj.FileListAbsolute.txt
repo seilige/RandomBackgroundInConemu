@@ -1,0 +1,8 @@
+C:\My_Service\bin\Debug\My_Service.exe.config
+C:\My_Service\bin\Debug\My_Service.exe
+C:\My_Service\bin\Debug\My_Service.pdb
+C:\My_Service\obj\Debug\My_Service.csproj.AssemblyReference.cache
+C:\My_Service\obj\Debug\My_Service.csproj.CoreCompileInputs.cache
+C:\My_Service\obj\Debug\My_Service.exe
+C:\My_Service\obj\Debug\My_Service.pdb
+C:\My_Service\obj\Debug\My_Service.csproj.SuggestedBindingRedirects.cache
